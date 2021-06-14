@@ -1,0 +1,10 @@
+{
+  "applications": {
+    "_default": {
+      "link": "progress"
+    },
+    "progress": {
+      "applicationId": "mntZT9Qs3tKb2W4U6keIwT4xOHwWwJFNnhsZYGek"
+    }
+  }
+}
